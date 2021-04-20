@@ -7,7 +7,7 @@ https://www.1001fonts.com/digital-7-font.html
 How to install Digital-7 font?
 1. Extract digital-7.zip file
 2. Block all the .ttf file
-3. Right click => Install for all users
+3. Right click --> Install for all users
 4. Done
 
 EULA
